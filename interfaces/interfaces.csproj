@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="experssionbodied.cs" />
     <Compile Include="multipleinheritence.cs" />
+    <Compile Include="paymentinterfaces.cs" />
     <Compile Include="shape.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
